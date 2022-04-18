@@ -37,9 +37,9 @@ body {
   border-radius: 10px;
 }
 
-@media (max-width:1030px) {
-  body {
-    flex-direction: column-reverse;
+@media (max-width: 650px) {
+  app {
+      width: 100vh;
   }
 }
 
